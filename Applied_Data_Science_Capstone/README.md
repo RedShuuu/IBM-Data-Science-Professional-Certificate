@@ -2,8 +2,6 @@
 
 By IBM
 
---------
-
 Link: https://www.coursera.org/learn/applied-data-science-capstone
 
 --------
@@ -43,4 +41,5 @@ Lab: Segmenting and Clustering Neighborhoods in New York City
 Peer-review Assignment: Segmenting and Clustering Neighborhoods in Toronto
 
 ### Week 4 - Capstone Project
-Week 5 - Capstone Project (Cont'd)
+
+### Week 5 - Capstone Project (Cont'd)
