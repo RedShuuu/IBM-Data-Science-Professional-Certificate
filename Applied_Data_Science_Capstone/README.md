@@ -18,7 +18,7 @@ Signing-up for a Watson Studio Account
 
 Peer-review Assignment: Capstone Project Notebook
 
-###Week 2 - Foursquare API
+### Week 2 - Foursquare API
 
 Introduction to Foursquare
 
