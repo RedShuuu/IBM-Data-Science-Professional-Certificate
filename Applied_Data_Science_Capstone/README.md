@@ -42,4 +42,4 @@ Peer-review Assignment: Segmenting and Clustering Neighborhoods in Toronto
 
 ### Week 4 - Capstone Project
 
-### Week 5 - Capstone Project (Cont'd)
+### Week 5 - Capstone Project 
